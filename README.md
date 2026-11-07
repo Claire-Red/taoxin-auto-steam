@@ -4,4 +4,4 @@
 需要设置游戏为窗口化，无遮挡。
 pip install -r requirements_steam.txt
 python ba_momotalk_auto_steam.py
-使用方法请看
+使用方法请看https://www.bilibili.com/video/BV1q44E6DELg/?vd_source=ad77417a72211753e369602adcea6c15
